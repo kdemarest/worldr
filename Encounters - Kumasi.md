@@ -1,0 +1,21 @@
+# Kumasi Encounters
+
+1. See Kwad's cousin Aborah PIC, drinking from Sir Charles MacCarthy's fate, to be a skull gold rimmed drinking cup. The skull has been engraved with the tripled cross, McCarthy's crest.
+2. The keeper of the royal cemetry was this day imprisoned. His wife was soon after charged by the council with making fetish to turn the King's head ; she replied that it meant no more than to make the King think better of her husband ; but they insisted that she invoked the Fetish to make the King mad, and she was executed.
+3. A beautiful woman PIC walks four African Golden Cats on leashes. Their collars are studded with gold.
+4. A slave in a loin cloth exits an apparent rock face wall, carrying a bucket of night soils
+5. A slave with new whip marks hurries away from the castle, glancing around in fear and shame.
+6. Sudden roaring from the animal pen tells that a person has been fed to the leopard.
+7. A cook scurries past, bringing ingredients to the kitchens.
+8. The Chief of Staff strolls past. He has strangely shaped bits of metal that might be keys.
+9. Two concubines stroll by chattering and giggling. They wear matching leopard earrings. One has three gold bracelets on her left wrist, and the other has two.
+10. A snake has made its way into the palace. It is minding its own business, but sits on the floor between you and your goal. It will do nothing unless molested.
+11. The Asantehene Osei Tutu Kwame Asiba walks past with a consort on one side, a scribe on the other, and behind a slave holding a large umbrella.
+12. **Adae Ceremony:** The spirits of clan chiefs are propitiated and their favors solicited. Chief sacrifices a goat in the stool-house, the blood is smeared on the stools, and a Diece of meat placed on each with a prayer for long life and prosperity, while the drums call out the names of the departed and the people chant the attributes of each chief.
+13. At court, Ivory Trumpet surrogate speech is used to communicate to other tribes, but maybe also to the Corruptor. Video
+14. Meet Thomas Edward Bowdich, a British German who will go on to write the first Ashante history.
+15. The royal buffoon walks by, being comic
+16. A slave flying to the temple, may dash or devote himself to the fetish ; but, by paying a fee of two ounces of gold and four sheep, any person shuts the door of the fetish house against all his run away slaves.
+17. Boys with elephant whips precede soldiery escorting 40 wives, who are not to be looked upon.
+18. **Child Raiders** - The King has a troop of small boys, who carry the fetish bows and arrows, and are licensed plunderers ; they are so sly and nimble, that it is very diverting to watch them in the market place, which they infest every morning. Whatever they can carry off is fair game, and cannot be required or recovered ; but the loser, if he can catch them before they arrive at the palace, may beat them as severely as he pleases, short of mortal injury ; however, they bear it as obdurately as young Spartans, Sometimes one party trips up a person with a load of provisions, whilst another scrambles them up : the anxious alarm of the market people, sitting with sticks in their hands, and the comic archness of these boys threading the crowd in all directions, is indescribable.
+19. **Dead Son** - This morning one of the King's sons (about 10 years of age) shot himself : his funeral custom was celebrated in the after- noon, and a smart fire of musquetry was kept up until sun-set, amidst dancing, singing, and revelry ; two men and one girl were sacrificed, and their trunks and heads were left in the market place till dark. The mother of this child, a favourite wife of the King's, having added crime to a continued perversity of conduct, had been put to death ; the boy was banished the King's presence from that time. This morning he had stolen into the palace for the first time, and the King desiring him to be removed, observing that he had, doubtless, as bad a head towards him as his mother had shewn ; he replied, that if he could not be allowed to come and look at his father, he had better die; half an hour afterwards he destroyed himself privately, by directing a blunderbuss into his mouth, and discharging it with his foot. 

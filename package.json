@@ -1,0 +1,30 @@
+{
+  "name": "worldr",
+  "version": "1.0.0",
+  "description": "Web-enabled TTRPG with markdown-based entity system",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test dist/tests/*.test.js",
+    "start": "nodemon --watch src --ext ts --exec \"npm run build && node dist/server.js\"",
+    "dev": "tsc --watch & nodemon --watch dist dist/server.js"
+  },
+  "keywords": [
+    "ttrpg",
+    "markdown",
+    "worldbuilding"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^20.10.0",
+    "nodemon": "^3.1.11",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.1"
+  }
+}

@@ -25,6 +25,30 @@ test.describe('renderMarkdown cross-linking', () => {
     [mockEntity.entityId, mockEntity],
     [viennaEntity.entityId, viennaEntity]
   ]);
+  const aliasEntity: Entity = {
+    entityId: 'Richard Bean Gilroy',
+    _source: { documentId: 'S1E1 - Recruits.md', startLine: 1, endLine: 1 },
+    ancestors: [],
+    headingLevel: 2,
+    properties: {
+      aka: 'Bean, Big Dog, happy'
+    },
+    textContent: []
+  };
+  const entityIndexWithAlias = new Map<string, Entity>([
+    [aliasEntity.entityId, aliasEntity]
+  ]);
+  const trickyEntity: Entity = {
+    entityId: 'Order of "Light" & Shadow <Prime>',
+    _source: { documentId: 'World Order.md', startLine: 3, endLine: 3 },
+    ancestors: [],
+    headingLevel: 2,
+    properties: {},
+    textContent: []
+  };
+  const entityIndexWithEscapes = new Map<string, Entity>([
+    [trickyEntity.entityId, trickyEntity]
+  ]);
 
   test.it('should not link entity name inside its own heading', () => {
     const markdown = '## Congress of Vienna\n\nContent here';
@@ -62,5 +86,24 @@ test.describe('renderMarkdown cross-linking', () => {
     assert.ok(html.includes('data-entity-id="Congress of Vienna"'));
     assert.ok(html.includes('data-entity-id="Vienna"'));
     assert.ok(!html.includes('<a href="#" class="entity-link" data-entity-id="Vienna"><a'));
+  });
+
+  test.it('should link aka aliases with case-sensitive matching', () => {
+    const markdown = 'Bean and Big Dog spoke with happy.';
+    const { html } = renderMarkdown(markdown, { entityIndex: entityIndexWithAlias });
+    const matches = html.match(/data-entity-id="Richard Bean Gilroy"/g) ?? [];
+    assert.strictEqual(matches.length, 3);
+  });
+
+  test.it('should not link aka aliases when casing differs', () => {
+    const markdown = 'bean met big dog and Happy.';
+    const { html } = renderMarkdown(markdown, { entityIndex: entityIndexWithAlias });
+    assert.strictEqual(html.match(/entity-link/g)?.length ?? 0, 0);
+  });
+
+  test.it('should escape entity ids for html attributes', () => {
+    const markdown = 'The Order of "Light" & Shadow <Prime> convened.';
+    const { html } = renderMarkdown(markdown, { entityIndex: entityIndexWithEscapes });
+    assert.ok(html.includes('data-entity-id="Order of &quot;Light&quot; &amp; Shadow &lt;Prime&gt;"'));
   });
 });

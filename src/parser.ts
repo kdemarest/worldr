@@ -123,6 +123,7 @@ export function parseMarkdown(content: string, documentId: string): ParseResultW
   // DEBUG: Cheesy overrides for testing - treat certain headings as entities
   const debugHeader1AlwaysEntity = true;  // All # headings are entities
   const debugHeader3AlwaysEntity = documentId === 'Individuals.md';  // ### headings in Individuals.md
+  const debugHeader2AlwaysEntity = documentId === 'Items.md';  // ## headings in Items.md
   
   // Stack to track entity scope by heading level
   // Index = heading level (1-6), value = entity being built at that level
@@ -203,6 +204,9 @@ export function parseMarkdown(content: string, documentId: string): ParseResultW
         effectiveType = 'entity';
       }
       if (debugHeader3AlwaysEntity && heading.headingLevel === 3) {
+        effectiveType = 'entity';
+      }
+      if (debugHeader2AlwaysEntity && heading.headingLevel === 2) {
         effectiveType = 'entity';
       }
       

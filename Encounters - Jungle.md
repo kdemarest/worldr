@@ -1,13 +1,13 @@
-# Jungle Encounters
-01–20 Hazard all party  
-21–60 Natural  
-61–90 Hybrid  
-91–00 Cryptid  
+# !Jungle Encounters
+01–20 Jungle Standard Hazards  
+21–60 Jungle Natural Hazards
+61–90 Jungle Hybrid Hazards 
+91–00 Jungle Cryptid Hazards 
 
-# Jungle Hazards
+# !Jungle Standard Hazards
 
-1. **TOLD Rash 5 days:** Reddish, diamond-shaped bugs swarm on a tree = hand and finger joint rash hinders all tasks that involve hands  
-2. **TOLD Wobbly 3 days:** Rotted log with blue fungus = biting aphids make wobbly legs, hindering all tasks involving legs  
+1. **Rash 5 days:** Reddish, diamond-shaped bugs swarm on a tree = hand and finger joint rash hinders all tasks that involve hands  
+2. **Wobbly 3 days:** Rotted log with blue fungus = biting aphids make wobbly legs, hindering all tasks involving legs  
 3. **Swollen 1–3 days:** Head-height spider web with a yellow spider that stings and dramatically swells up the face = −3 perception; must roll 4 to speak and be understood  
 4. **Hallucinate 1 day:** Brown fungus touched and then touch the face = hallucinations; must be led through the jungle or will wander off track. Roll 4 to spend any Int effort.  
 5. **Worms forever:** Crossing a stream you carelessly touch your mouth = Intestinal worms. As long as you have them, your maximum Might will be reduced by 4 points (see Siamese Cassia for cure) 4 to diagnose. Cures with fresh water clams from the deep mud of the river.  
@@ -15,7 +15,7 @@
 7. **Malaria 3 days:** You develop flu-like symptoms. Cost of all Effort is doubled. Roll 2 to avoid cerebral complications that halve your Int pool. If you use effort to resist this, it costs double and is consumed for the duration of the disease. If you suffer cerebral problems, roll 2 again to avoid death.  
 8. **Quicksand T2**
 
-# Naturals
+# !Jungle Natural Hazards
 
 1. You hear the flutter of tiny wings, and what sounds like singing. Through the thick underbrush you see what appears to be a tiny human form. It is hummingbirds. They have heat stroke. *PIC*  
 2. **Giant Forest Hog pack** *PIC*  
@@ -33,7 +33,7 @@
 14. **Spider-tailed horned viper** *VID*  
 15. **Ashanti stool maker** doing the ritual before cutting wood, or killing the elephant for its ear. *Link* The carver makes a libation to the spirit of the tree, and his tools, asking that the carver not be harmed.
 
-# Jungle Hybrid
+# !Jungle Hybrid Hazards
 
 1. **Lunge-a-gator** *PIC* — 8, armor 4  
 2. **Bearogator** *PIC* — 7, armor 2  
@@ -67,7 +67,7 @@
 30. **Porcubison** *PIC* — 4  
 31. **Spidranchula** *PIC* — 3  
 
-# Jungle Cryptids
+# !Jungle Cryptid Hazards
 
 1. **Emela-Ntouka** *PIC* — 6 (−14-6-6-6)  
 2. **Werebaboon** *PIC*  

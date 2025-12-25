@@ -1,9 +1,10 @@
-# Scenario – Recruiting
+# !Recruits
 
-<Prelude – read the reminders>
+## Prelude
 
 * The coins you have been given have a strange luster to them. You wish you had thought of them during that odd moment before your vision in the Roman Cistern.
 
+## Castlebury's Speech
 What a sight it was, dear readers, to see the valiant re-capture of His Majesty's royal baboons concluded with a triumphal march through the city streets. Delays in the unveiling of the new baboon attraction at the Royal Menagerie were finally explained when it was revealed that the howling, swinging monsters had absconded into the London Sewers, of all places. One would think they had rather leap to the London Tower parapets and swing about! "Nobody was ever in danger from these gentle creatures," said Daniel Smythe, looking quite the worse for wear in ripped pantaloons and reeking like the Thames. Accompanying him were several brave and resourceful souls, soon to be recognized for their fearless service to the crown. Upon the animals' recapture in the evening Thursday, onlookers were certainly surprised to see a troop of monkeys, strung together by rope around their necks, escorted by powerful, capable, and loyal men from many walks of life. Upon arrival at the Menagerie entrance, Mr. Smythe declared "The exhibit will open within the week! Get your advance tickets at the menagerie box office for just one shilling!" And we certainly will, dear readers, we certainly will.
 
 ## Pre-Game

@@ -15,6 +15,17 @@ const toggleBtn = document.getElementById('toggle-btn');
 const indexPanel = document.getElementById('index-panel');
 const backBtn = document.getElementById('back-btn');
 
+function decodeEntityId(value) {
+  if (!value) {
+    return value;
+  }
+  return value
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
+}
+
 // Toggle index panel
 toggleBtn.addEventListener('click', () => {
   indexPanel.classList.toggle('collapsed');
@@ -159,7 +170,7 @@ function attachEntityLinkHandlers() {
   contentPanel.querySelectorAll('.entity-link').forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      const entityId = link.dataset.entityId;
+      const entityId = decodeEntityId(link.dataset.entityId);
       if (entityId) {
         loadEntity(entityId);
       }

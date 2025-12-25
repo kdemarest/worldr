@@ -2,8 +2,8 @@
     "files":[
         {
         "file": "planet.md",
-        "heading1": {
-            "type": "planet"
+        "#": {
+            "entityType": "planet"
         }
     }
     ]

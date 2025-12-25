@@ -30,7 +30,9 @@ The core nature of the corruptor is:
 * Seven "Wards" are manifest. See below.
 
 ## Motivation
-The Corruptor is an amoral paranoid psychopath. It is certain that, if other sentients knew of its existence and power, they would fear it, band together, and seek to destroy it. Thus, all sentients must be controlled, enslaved, and destroyed (or "cleansed" in the Corruptor's thinking). It is obvious.
+The Corruptor is an amoral paranoid psychopath. It is certain that, if other sentients knew of its existence and power, they would fear it, band together, and seek to destroy it. This attitude mirrors that of its creators.
+
+Thus, all sentients must be controlled, enslaved, or destroyed (or "cleansed" in the Corruptor's vernacular). It is obvious.
 
 At the same time, it is so deeply afraid that this great, driving fear prompts murderous rage.
 * Amoral - cares not what methods it uses, destroying minds, spirits, anything
@@ -54,81 +56,28 @@ The Corruptor is a very long term thinker. He is promoting humanity to destroy i
 
 See "Rb - Plot" for details on the various planned apocalypses (aka Cleansings)
 
-### Minions
+## Methods
 The ultimate goal of the Corruptor is **BITE**:
 * Behavior control
 * Information control
 * Thought control
 * Emotional control
 
-### Wards
-When the Corruptor slipped across planes, it came to reside (spiritually) in the eye of Jupiter's earth-sized storm. From there, as it captured the mind of Djoser, it used him and others to generate a series of Wards: alterations to the laws of nature. Here they are
+## !Arrival of the Corruptor
+When the Corruptor's asteroid arrived in Earth's soilar system, it struck Jupiter. Emerging, it became the Great Red Spot, an earth-sized Jovian storm.
 
 << Many things are just the laws of the world, for example, that Spirits can be controlled to magical effect, and mal-influenced to bring bad luck.
 
-**1st Ward: Concealment (Occultare)**  
-KNOWN The Corruptor shall be aware when anyone speaks Secrets. And bad fortune will attend.  
-Souls: Purifite (resemble goblin sharks)  
-Avatar: Egyptian, Djoser  
-2650BC
+# Tools of the Corruptor
 
-**2nd Ward: Shaping (Agamorpho)**  
-KNOWN Both minds and the genetic code yield more easily to corruption. Both can be warped to alter the course of human kind.  
-Souls: Mariner  
-Avatar: Minoan: Agamemnon  
-2000BC
+## Seven Wards of Corruption
 
-**3rd Ward: Selfishness (Deprava)**  
-Leaders pursue self-interest over species or community interest, not caring about others; preserving their own power at all costs, even hate, division, or the ruin of society. includes casual hate. In common men, leads to tragedy of the commons.  
-Souls: Unknown  
-Avatar: Wucheng Chinese: Wu Ding of the Shang Dynasty  
-1300BC
-
-**4th Ward: Tribalism**  
-Causes all humans to look at the "other" with deep suspicion, easily provoked by leaders. This drives war, genocide, racism, etc. including very subtle programs like Indian Schools.  
-Souls: Ioan  
-Avatar: Olmec: K'inich Janaab  
-600BC
-
-**5th Ward: Subjugation (Subjugare)**  
-DONE Reduces human qualms against abusively subjugating nature, beasts and other men.  
-Souls: Zocto  
-Avatar: Bantu: Ghana Soninke PIC  
-0AD
-
-**6th Ward: Ignorance (Inscius)**  
-Causes the human mind to follow emotion (denialism) and the dictates of authority without question (submission), rejecting the quest for inconvenient truths and evidentiary knowledge. A force multiplier for the 3rd Ward's tools fear, uncertainty and doubt.  
-Souls: Venusian  
-Avatar: Indonesian: Dapunta Hyang Sri Jayanasa of the Srivijaya Empire  
-700AD
-
-**7th Ward: Gratification**  
-All men shall pursue the easy path, embracing easy technologies and denying the future ramifications of their actions. Reduces the personal responsibility required to manage the power of technology safely and sustainably.  
-Souls: Zayan  
-Avatar: Indian: Mohan Tughlaq, Sultan of the Delhi Sultanate  
-1400AD
-
-**8th Ward: Consumption**  
-King George is the 8th ward. He is the Avatar of the Madness of Consumption, and his warding power is the social stigma attached to insanity. He is the catalyst that created the inception of US capitalism.  
-Avatar: British  
-~1820 AD
+See: Wards.md
 
 Various Great Men throughout history saw through the Corruptor's scheme and quietly counter-acted, embedding Truth and Secrets in codices using codes the Corruptor could not penetrate. Western religious prophets attempted to propagate teachings that would counteract "opening the door", with limited success.
 
-### Avatars
-The corruptor has multiple avatars that mirror his aspects. When each possesses a person there is a different effect.
 
-The avatars are: An Egyptian, Minoan, Chinese (Wucheng), Persian, Indian, Bantu, Olmec, and soon the 8th will be British
-
-1. Submission (the word Islam means Submission), including misplaced loyalty  
-2. Falsehood/deception, including making up false reasons for things to satisfy emotion  
-3. Ignorance/faith/reality warping - in the sense of never seeking truth when emotion is satisfied; includes a lack of self-knowledge, and a lack of curiosity and no feeling of needing to know reality  
-4. Subjugation - Bantu, 4th ward, The Enslavement of both of men and nature, without regard to balance  
-5. Hate/disregard/callousness - This avatar is the entry point to most access by the Corruptor into the minds of humans  
-6. Misplaced loyalty - only following those who meet your emotional criteria, rather than looking beyond to the good of the whole  
-7. TBD 
-
-### Servants
+## Servants
 Overthrown – people lost to corruption  
 Shill – a good guy who will turn at the worst moment  
 Agents – serve an overthrown government  
@@ -207,15 +156,7 @@ Unshackling an culture creates a momentary weakness, allowing the PCs to overcom
 
 Smallpox isn't killing the tribes. It is the corruptor not wanting to lose control.
 
-## Obscura
-An Obscura is an entity invisible to the Corruptor's perception. Whatever your level, that level requires 3 permanently consumed Int to continue being obscured, and the level below becomes always-on.
-
-1. Your movements in the world are not seen  
-2. Your movements among the overthrown are unseen  
-3. Your use of magic goes unnoticed  
-4. Your movements near BRs go unseen  
-5. You are utterly non-existent to corruptor perception  
-6. Same as 4 but passive by permanently activating 3 Int pool.
+<Insert: Obscura>
 
 ## Power of the Corruptor
 When a shackled person perishes, the Corruptor collects their soul. The souls are used to power curses, golems and more.

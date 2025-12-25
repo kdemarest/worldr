@@ -332,12 +332,14 @@ A former Benedictine Monk, has been pope for 17 years. He was never a BT, nor wa
 He was crowned on 21 March, in the adjacent monastery church, by means of a rather unusual ceremony, wearing a papier-mâché papal tiara. The French had seized the tiaras held by the Holy See when occupying Rome and forcing Pius VI into exile.
 
 ### Princess Frederica Charlotte, Duchess of York and Albany
+aka: Duchess of York, Frederica
 PIC LINK  
 Great friend to Beau Brummel, daughter of King Frederick William II of Prussia and estranged wife of Prince Frederick Duke of York and Albany, second son to King George III. A small eccentric woman, rather man-faced, well informed in politics and society, she stayed close friends with George III's wife Queen Charlotte.
 
 Unable to bear children, she retired in 1794 to Oatlands Park, Weybridge, where she stayed well-informed, ran high stakes high society gambling parties, and kept numerous dogs, cats and monkeys. Her parties also included using nitrous oxide (laughing gas) as a form of entertainment.
 
 ### Princess Charlotte of Wales, nee Augusta
+aka: Charlotte
 PIC, PIC2, LINK  
 Daughter of the Prince regent, who in reality died in childbirth in November of 1817.
 
@@ -357,6 +359,7 @@ Instead she will give birth in November 1817 to a live child, the true heir to t
 In Kumasi, an Accra Linguist
 
 ### Quintus Antonius
+aka: Quintus
 A turban wearing westerner who knows certain secrets  
 * Knows the secret of Sulphur  
 * Knows that bad luck follows the communication of magical secrets  
@@ -377,15 +380,18 @@ Achievements:
 * Secret member of the so-called illuminati, those who recognize the existence of the Corruptor
 
 ### Reginald Castlebury
+aka: Castlebury
 Researcher for the Alien Office. Always breakfasts at the same cafe, reads the same paper. Historian, culturally knowledgeable about all Europe.
 
 ### Richard Arkwright
+aka: Arkwright
 PIC LINK  
 Ultra-wealthy inventor of the cotton spinning frame, and "father of the modern factory." He had a breakdown when he saw factories ruining the lives of children and bringing hardship to traditional craftsmen. He "found god", became an egalitarian, and a major funder of the expedition. At 60 years of age he has signed up as a barber on the ship to escape what he considers the horrors of industrial England, and reconnect with regular people.
 
 Flaw: Estimates that less educated, less experienced, or more poorly tempered men can do anything he can do. Which is quite a lot.
 
 ### Richard "Bean" Gilroy
+aka: Bean, Richard Gilroy
 PIC  
 Tier 4 - Charming, Guarded, Strong Willed Speaker who Serves Humanity  
 Trained: Corrupt knowledge 1, Resist corruption, On-the-fly encryption and decryption  
@@ -397,6 +403,9 @@ A regular looking fellow with a twinkle in his eye and not a care in the world. 
 Possibly patterned after, or in fact is, Thomas Weld, future Cardinal and nephew to Maria Fitzherbert's first husband. Weld also persuaded the Pope to validate George IV's marriage to Fitzherbert.
 
 Bean is both light hearted and casually formal, addressing everyone as "Mr. this" and "Mrs. that" (or Sir and Dame as required). Although he seems like a regular administrator, and rather naive, he cultivates this. He believes in what the Benedictines are doing, was trained as a monk, and eventually joined the BTs.
+
+### Maria Fitzherbert
+Daniel's aunt. Cousin to Cardinal Weld. Incredibly attractive, almost overwhelmingly so. 
 
 ### Robert Boyle
 Long Dead: Essentially invented chemistry. From Listmore but did all his work in London. Robert Boyle is considered the father of chemistry, but he dabbled in alchemy, as well. In fact, he was so committed to the alchemical cause that he fought to make alchemy legal, since Henry IV had banned it (because alchemy wasn't good for the monetary supply). Needless to say, the repeal wasn't necessary.

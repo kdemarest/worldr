@@ -1,6 +1,8 @@
-# Encounters
+# !Encounters - London
 
-## London Streets
+## !London Street Encounters
+aka: London Streets
+
 1. **Philosophy:** Upon an overturned soap box, a man stands with a sign: "If you see it not, it exists not." He proclaims loudly that there is no "invisible world". If pressed he will denounce god and the church as trying to control the masses. A gathering crowd begins to throw mud, then rotten vegetables, then stones.
 2. **Troubles:** See a horse keeled over, attended by the carriage man who bemoans the wet cold summer, the damp oat harvest and these damnable dark skies.
 3. **Unstable:** See a Spencean handbill posted. It begins "England expects every man to do his duty!" and continues with this text.
@@ -23,26 +25,29 @@
 20. So-called “pure finder” collects dog poop to sell to tanners for tanning hides.
 21. Father Kensington stands in a nearby alley. A tall brazier heats a large pot of soup, and a stack of stale bread rests nearby. Children are lined up holding soup bowls. He is arguing with a brawny older boy (Old Farm), perhaps 14 years old, not to take food from the younger children.
 
-## London Wealthy
+## !London Wealthy Encounters
+aka: London Wealthy
 1. A group of fabulously dressed men and women stands on a large terrace elevated above the street. The fashion is new, energetic and eye-catching. You suspect the man on the left could be Beau Brummel, the Prince Regent's fashion tsar. PIC
 2. **Class:** A noble carriage passes, with young men hangers-on standing upon the running boards.
 3. **Progress:** A strange hiss erupts from a nearby alley. When you enter: You can see a muddy, dirty workman unconscious. Blood matts the hair on his head. A pickaxe lies in the mud near his feet. A dug hole about two feet long and a foot wide has uncovered a pipe, and some gas under pressure is issuing from that pipe. GM: it is a gas pipe. He hit his head when the gas overcame his lungs.
 4. **Progress:** A man struts by on a Dandy Horse, proclaiming that the age of horse is at an end.
 5. **Philosophy:** A man with a tricorn hat and American clothing, with an upper-class woman beside him, argues forcefully with a rather tipsy looking aristocrat. “She has as much right as you to learn, to own property, to have equal rights. You can't even see that what you consider ‘polite society’ is nothing more than oppression of women!” etc. It is John Neal, women’s rights lecturer, who is visiting London. He will later influence John Stuart Mill.
 6. **Philosophy:** Pass a pub with outdoor tables. Two university students sit outside arguing whether the “social contract” can apply to savage nations where force is all they understand.
-7. DONE **Style:** A phaeton PIC driven by a butler and occupied by a young couple with a lap dog in the latest high street garments travels in elegance towards you along the cobbled street. The swept lines, oversized wheels, black calf leather seats and finely tuned springs tell you it is new, expensive and fashionable. The lap dog barks, and a mangy cur barks loudly in return. The horse spooks, the reins are torn from the carriageman's hand, and the carriage begins to careen towards you. It is Beau Brummel and Frederica Duchess of York, who is carrying her little dog Fidélité, just gifted from Brummel.
+7. **Style:** A phaeton PIC driven by a butler and occupied by a young couple with a lap dog in the latest high street garments travels in elegance towards you along the cobbled street. The swept lines, oversized wheels, black calf leather seats and finely tuned springs tell you it is new, expensive and fashionable. The lap dog barks, and a mangy cur barks loudly in return. The horse spooks, the reins are torn from the carriageman's hand, and the carriage begins to careen towards you. It is Beau Brummel and Frederica Duchess of York, who is carrying her little dog Fidélité, just gifted from Brummel.
 8. A scandal sheet reveals how Lord Byron escaped England by the skin of his teeth, and is rumored to be in the Villa Diodati (LINK). The scandal of his separation from his wife, rumours of an affair with his half-sister, and ever-increasing debt, had forced him to leave England, never to return, in April of that year.
 
-## London Riverside
+## London Riverside Encounters
+aka: London Riverside
+
 *50% chance for a regular London Street encounter*
 
 1. **Dead Pig:** The body of a dead pig, swollen and distended, has snagged on a pole in the water. Children throw stones at it while an old woman encourages them. The smell is terrible, driving customers away from her fish stand. She asks for help to get the body gone. Delicate! Or it will explode. The pig is 12' from the docks, in 4' deep water. A nearby rowboat stands unused, but the current is moving fast.
 2. **Rat Swarm:** A huge swarm of 200 rats suddenly gathers, and just as suddenly launches into the Thames, swimming across as fast as they can paddle. A strange, ultra-deep growl can be heard from the sewer grate nearby. Perhaps that is what frightened the rats? It is an alligator that has escaped from the zoo.
-3. DONE **Holywell Street – MAP:**  
+3. **Holywell Street – MAP:**  
    Crooked timber-framed houses with gables lurch over the street, blocking out the light, as though untouched from medieval times. Old wooden-fronted, deep-bayed buildings proudly wear grime, dilapidation and, some might say, a certain moral dissolution. Books abound on trestle tables, hastily set-up shelves, seemingly overflowing from the packed shop windows as busy presses thrive in the new abundance of factory-made paper. Horse-drawn carts load and unload yet more books, as shop owners chivvy men to be careful, don't let mud on the edges.  
    Nearby, a golden crescent moon with pouting lips, thick eyebrows, a fine nose, and sad, sulky eyes hangs before a shop just as stuffed as all the others. It guards the entrance to legendary Half-Moon Passage, a dark alley reeking of urine, leading to the more “legitimate” stores where the unsavory content of risque books is not allowed.
 
-## London Sewers
+## !London Sewer Encounters
 1. 1d4 Toshers (sewer hunters)
 2. The feral pig sounder
 3. The rat queen, who brings good luck and mostly looks like a human girl, though she is probably myth. Maybe those are just facial and ear deformities.
@@ -50,7 +55,7 @@
 5. Rotted brick producing collapses
 6. Human waste
 7. A floating body
-8. Dead animal: dog, cat, kitten, rat, horse
+8. Dead animal: dog, cat, puppy, kitten, rat, horse
 9. Rough thugs
 10. Royal surveyor
 11. Repair men, including a mason, bricklayer, and two brick carriers

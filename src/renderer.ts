@@ -1,5 +1,5 @@
 import { marked } from 'marked';
-import { EntityIndex } from './types.js';
+import { Entity, EntityIndex } from './types.js';
 import { ParseResultWithScopes } from './parser.js';
 
 /**
@@ -64,6 +64,14 @@ interface EntityPattern {
   regex: RegExp;
 }
 
+function escapeAttribute(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
 const ANCHOR_SEGMENT_PATTERN = /(<a [^>]+>.*?<\/a>)/gi;
 
 function replaceOutsideAnchors(
@@ -80,16 +88,39 @@ function replaceOutsideAnchors(
   }).join('');
 }
 
+interface PatternSeed {
+  entityId: string;
+  name: string;
+  caseSensitive: boolean;
+}
+
+function extractAliases(entity: Entity): string[] {
+  const aka = entity.properties['aka'];
+  if (!aka) {
+    return [];
+  }
+  return aka
+    .split(',')
+    .map((part: string) => part.trim())
+    .filter(Boolean);
+}
+
 function buildEntityPatterns(entityIndex: EntityIndex): EntityPattern[] {
-  return Array.from(entityIndex.keys())
-    .sort((a, b) => b.length - a.length)
-    .map(name => ({
-      entityId: name,
-      regex: new RegExp(
-        `(?<![\\w-])${escapeRegex(name)}(?![\\w-])`,
-        'gi'
-      )
-    }));
+  const seeds: PatternSeed[] = [];
+  for (const entity of entityIndex.values()) {
+    seeds.push({ entityId: entity.entityId, name: entity.entityId, caseSensitive: false });
+    for (const alias of extractAliases(entity)) {
+      seeds.push({ entityId: entity.entityId, name: alias, caseSensitive: true });
+    }
+  }
+  seeds.sort((a, b) => b.name.length - a.name.length);
+  return seeds.map(({ entityId, name, caseSensitive }) => ({
+    entityId,
+    regex: new RegExp(
+      `(?<![\\w-])${escapeRegex(name)}(?![\\w-])`,
+      caseSensitive ? 'g' : 'gi'
+    )
+  }));
 }
 
 function linkLine(
@@ -104,7 +135,7 @@ function linkLine(
     }
     regex.lastIndex = 0;
     result = replaceOutsideAnchors(result, regex, match => (
-      `<a href="#" class="entity-link" data-entity-id="${entityId}">${match}</a>`
+      `<a href="#" class="entity-link" data-entity-id="${escapeAttribute(entityId)}">${match}</a>`
     ));
   }
   return result;

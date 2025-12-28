@@ -10,25 +10,24 @@ The formal leadership, typically all corrupted if their region is also generally
 
 This organization, known as the Benedictine Truth (or BT if you have to mention it in writing or words), is the Illuminati of human resistance to the Corruptor in Europe and the Empire.
 
-Late in his life, Benedict recognized a certain British general as key. The earliest reference to Arthur is in a poem dating from around AD 594. Aneirin’s "Y Gododdin" is the earliest surviving Welsh poem and consists of a series of separate elegies to the men of the Gododdin who died at the Battle of Catraeth. This was Arthur attempting to oppose an Overthrown local. It is the inception of a history of "lessons learned" for the BTs.
+Late in his life, Benedict recognized a certain British general as key. The earliest reference to Arthur is in a poem dating from around AD 594\. Aneirin’s "Y Gododdin" is the earliest surviving Welsh poem and consists of a series of separate elegies to the men of the Gododdin who died at the Battle of Catraeth. This was Arthur attempting to oppose an Overthrown local. It is the inception of a history of "lessons learned" for the BTs.
 
-One such lesson is that a corrupted ruler causes great harm, and that eventually there will always be corruption. Alfred the Great, Anglo-Saxon king in 871, assembled a law code (the Doom Book) which he grounded on biblical commandments. His attempt laid groundwork for stabilizing the monarchy even if, as often happened, a king or noble became corrupted.
+One such lesson is that a corrupted ruler causes great harm, and that eventually there will always be corruption. Alfred the Great, Anglo-Saxon king in 871, assembled a law code (the [Doom Book](https://sourcebooks.fordham.edu/source/560-975dooms.asp)) which he grounded on biblical commandments. His attempt laid groundwork for stabilizing the monarchy even if, as often happened, a king or noble became corrupted.
 
-There are nineteen Benedictine Congregations.
+There are nineteen [Benedictine Congregations](https://en.wikipedia.org/wiki/Benedictine_Confederation).
 
-The world sees this:  
-"Despite being called an order, the Benedictines do not operate under a single hierarchy but are instead organised as a collection of autonomous monasteries; they do not have a superior general or motherhouse with universal jurisdiction."
+The world sees this: "Despite being called an order, the Benedictines do not operate under a single hierarchy but are instead organised as a collection of autonomous monasteries; they do not have a superior general or motherhouse with universal jurisdiction."
 
 ## Veritas Benedictum
 
 Spearheaded by a council called the Consilium Vero, here are the ranks within the BTs:
 
-1. **Instruments** - the worldly people that serve the interests of the adherents. Typically kept ignorant, some Instruments are allowed into the some of the deeper secrets, if they prove themselves.  
-2. **Adherents** - the monks themselves, who organize and are the core of cells, like a resistance movement.  
-3. **Initiate** - a cell leader, typically knowledgeable in the secrets  
-4. **Counselor** - a member of the Consilium Vero.
+1. **Instruments** \- the worldly people that serve the interests of the adherents. Typically kept ignorant, some Instruments are allowed into the some of the deeper secrets, if they prove themselves.  
+2. **Adherents** \- the monks themselves, who organize and are the core of cells, like a resistance movement.  
+3. **Initiate** \- a cell leader, typically knowledgeable in the secrets  
+4. **Counselor** \- a member of the Consilium Vero.
 
-After special screening, people are chosen to whom the corruptor is blind, and who are willing to die if discovered. They live by the Rule of Saint Benedict, which enhances this blindness, and are trained in Secret Illuminations: various methods of detection, resistance, and so on. They are also extremely competent and capable people, studying politics, leadership, warfare, geography, psychology and methods of sublime influence in the isolation of their cells.
+After special screening, people are chosen to whom the corruptor is blind, and who are willing to die if discovered. They live by the [Rule of Saint Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict), which enhances this blindness, and are trained in Secret Illuminations: various methods of detection, resistance, and so on. They are also extremely competent and capable people, studying politics, leadership, warfare, geography, psychology and methods of sublime influence in the isolation of their cells. 
 
 ## Mission
 
@@ -36,7 +35,7 @@ The overall mission is to free humanity from the ever-spreading Corruptor.
 
 Much of Europe is still shackled, but Benedictine Truth leaders have determined that, by freeing other less populous cultures and gathering the shards of their Black Relics, the corruptor can be weakened.
 
-### Vulnerable Characteristics:
+Vulnerable Characteristics:
 
 * Thinking you are above others  
 * Displaying cruelty to others  
@@ -48,35 +47,35 @@ Much of Europe is still shackled, but Benedictine Truth leaders have determined 
 * Tendency to lie often  
 * Manipulating and hurting others  
 * Recurring problems with the law  
-* General disregard towards safety and responsibility  
+* General disregard towards safety and responsibility
 
 ## Consilium Vero (Benedictine Council)
 
-A council composed of Esente (ez-en-teh), meaning free or at liberty, guides the efforts of the Benedictines. It is composed of:
+A council composed of Esente (ez-en-teh), meaning free or at liberty, guides the efforts of the Benedictines. It is composed of
 
 * The Italian Abbott Edouardo, a disguised Prince Regent George VI  
 * Maria Fitzherbert  
-* Talleyrand - Charles Maurice de Talleyrand-Périgord - Foreign minister of France under many rulers, and prime mover of barring slavery at the Congress of Vienna  
-* Thomas Young - the last man who knew everything, who translated the rosetta stone  
-* Richard Arkwright - genius inventor, now repentant of the suffering his inventions have caused.  
-* Florence Nightingale - founder of modern nursing  
-* Johann Goethe - author of Faust, a mighty German thinker  
+* Talleyrand \- Charles Maurice de Talleyrand-Périgord \- Foreign minister of France under many rulers, and prime mover of barring slavery at the Congress of Vienna  
+* [Thomas Young](https://en.wikipedia.org/wiki/The_Last_Man_Who_Knew_Everything#:~:text=The%20Last%20Man%20Who%20Knew%20Everything%20\(2006\)%2C%20written%20by,Young%20\(1773%E2%80%931829\).) \- the last man who knew everything, who translated the rosetta stone  
+* [Richard Arkwright](https://en.wikipedia.org/wiki/Richard_Arkwright) \- genius inventor, now repentant of the suffering his inventions have caused.  
+* [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) \- founder of modern nursing  
+* [Johann Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) \- author of Faust, a mighty German thinker
 
-The Council harbors in a gold-lined room cut into Mont Blanc in the Swiss Alps.
+The Council harbors in a gold-lined room cut into Mont Blanc in the Swiss Alps
 
 ## Vows
 
-Benedictines take vows of:
+Benedictines take [vows](http://ordendesanbenito.org/canons/our-mission/) of
 
-* **Obedience** (to god)  
-* **Stability** (supporting and never leaving others in the order)  
-* **Conversatio Morum** (conversion of their entire life purpose to serve the holy order)
+* Obedience (to god)  
+* Stability (supporting and never leaving others in the order)  
+* Conversatio Morum (conversion of their entire life purpose to serve the holy order)
 
 These vows take on a special meaning when you are a BT, instead of a leader in the order:
 
 * Obedience means to god, but also a military type obedience to BT leaders  
 * Stability extends to killing them and boxing the dead.  
-* Conversatio Morum means willingly sacrificing your life to save humanity  
+* Conversatio Morum means willingly sacrificing your life to save humanity
 
 ## Benedictine Secrets
 
@@ -86,7 +85,7 @@ Benedictine monk robes are not actually a uniform black. If you look at certain 
 
 ## During the Napoleonic Wars
 
-The Benedictines were actually running the surveillance efforts of the Alien Office, while the Alien Office thought it reported to the King's Government. Everyone knows there is a relationship, but nobody seems to know what.
+The Benedictines were actually running the surveillance efforts of the [Alien Office](https://en.wikipedia.org/wiki/Alien_Office), while the Alien Office thought it reported to the King's Government. Everyone knows there is a relationship, but nobody seems to know what.
 
 ## Benedictine Presence
 
@@ -94,15 +93,15 @@ All of their abbeys, and many other locations besides, have secret compartments 
 
 ## Important BT Locations
 
-Ebstorf Abbey  
+[Ebstorf Abbey](https://en.wikipedia.org/wiki/Ebstorf_Abbey)  
 Westminster Abbey  
 Minos Island  
 Nursus  
-Geneva  
+Geneva
 
-## Benedict's Truth
+# **Benedict's Truth**
 
-Saint Benedict is the patron saint of all Europe and of exorcists. The St. Benedict medal is displayed on the homepage of the International Catholic Association Of Exorcists.
+Saint Benedict is the patron saint of all Europe and of exorcists. The St. Benedict medal is displayed on the homepage of the [International Catholic Association Of Exorcists](https://en.wikipedia.org/wiki/International_Association_of_Exorcists).
 
 Lucius continues his painstaking decoding of the cypher book given to him by his abbot. It is the secret writing of Saint Benedict of Nursia, creator of the codes of conduct used in monastic orders for centuries.
 

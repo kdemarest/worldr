@@ -1,6 +1,48 @@
+# Setting
+
+Europe bled silver as tea and silk from Qing China were imported, and the Chinese imported nothing at all. China accepted only silver for taxation.
+
+Meanwhile, in india:
+1757 - the EIC wiosn the Battle of Plassey in bengal, gaining the right to tax it
+1773 - the EIC formally monopolizes opium cultivation and refining in Bengal
+1175 - 75T of opium is "sent" to China
+1817 - 450T of opium is "sent" to China
+
+In Mexico, silver mines in Zacatecas and Guanajuato dug 80% of the world's new silver. And this meant trouble:
+1808 - Napoleon deposes the king of Spain, weakening colonial rule
+1810 - Zacatecas and Guanajuato successfully revolt, and silver production halts
+1817 - Britain, made poor by the Napoleonic wars, needs money
+
+Optium exports to China grew from 75T in 1775 to 450T in 1817, and was positioned to explode in the 1830s to 2500T. This rapid growth
+
+So this is the moment we're in:
+* Ruthless men are seeing their finances skyrocket
+* Opium trade is growing 6% per year, prompting more and more greed
+* Bengalis are forced into growing what the EIC dictates, and then taxed at the same time
+* The players are far "above" the indigenous in power, yet, tightly constrained by EIC governance
+
+
 # 1. The Fields — Poppy-Growing Villages in Bihar & Bengal (Patna / Ghazipur Region)
 **Atmosphere:** Hot, humid plains. Silt-heavy rivers. Villages rebuilt repeatedly after floods. Fields under surveillance by Company agents.  
 **Languages:** Bhojpuri, Maithili, Bengali; English from overseers; Persian still lingering in administration.
+**Economic Setting**: 
+
+Cotton textiles: India was still a major exporter of finished cotton cloth at the beginning of the 19th century. 
+Countercurrents
+
+Raw cotton: Increasingly exported as raw material for British cotton mills. 
+Countercurrents
+
+Opium: A rapidly growing export, particularly to China via the British East India Company. Bengal/Bihar opium was central to this trade. 
+Economics Discussion
+
+Indigo dye: Significant export item; Bengal was a leading producer for European textile industries. 
+Economics Discussion
+
+Rice: Both for local consumption and regional trade; sometimes exported within South Asia. 
+Wikipedia
+
+Spices and other agri-goods: Pepper, sugar, linseed, mustard seed, tobacco, and animal products (hides, ghee) were traded locally and regionally, though not as dominant as the big four above.
 
 ## Key Characters
 - **Ram Kishun Singh** (Bhojpuri-speaking cultivator). Hindu. Literate only in Devanagari. Forced into poppy contracts by the East India Company’s monopoly.  

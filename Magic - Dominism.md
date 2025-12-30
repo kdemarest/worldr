@@ -9,7 +9,7 @@ Those without magical defenses get no roll and are simply overcome with the appr
 
 **Dwelling** - Inserts a spy spirit into a target's mind. The spirit can perceive everything the victim perceives, though relaying such information is not automatic. A sufficiently skilled Dwelling attack goes unnoticed if the resistance roll fails.
 
-**Invasion** - A form of quick mental intrusion in which a spirit enters the mind of and possesses a target, enabling Control as detailed below. Requires a single round, instant attack.After invasion a victim with Liberated Mind may roll every turn to throw off the invader. Victims without Liberated Mind will stay invaded at the attacker's whim.
+**Invasion** - A form of quick mental intrusion in which a spirit enters the mind of and possesses a target, enabling Control as detailed below. Requires a single round, instant attack. After invasion a victim with Liberated Mind may roll every turn to throw off the invader. Victims without Liberated Mind will stay invaded at the attacker's whim.
 
 **Grumbling** - A so-called grumbler can plague a victim with distractions of noise and voices. This creates hindrance 1 due to sleeplessness and distraction. Victims will doubt your sanity. Over a course of days they will doubt their friends, eventually construing every action in the worst light. It can lead towards Possession.
 

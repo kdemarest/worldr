@@ -1,6 +1,7 @@
 # Sophonts
 
 **Humans** - You know who they are  
+**Orophagians** - A group of dwarf-like shape changers, servants of the Ward of Shaping. While technically human, they are deeply transformed.
 **Austra** - Ultra-pacifistic simians with a pure focus on the good of the community. They suicide rather than suffer slavery, to make capturing other Austra pointless.
 **Moai** - Stony Jovian natives, not bright, but strong and spiritual. Enslaved by Corruptor.  
 **Zocto** - Eight armed Europans. Those who migrated to Jupiter are muscled, the very few who remain on Europa are spindly  

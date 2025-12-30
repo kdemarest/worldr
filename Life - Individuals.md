@@ -610,6 +610,38 @@ Mods:
 * Hinder 4 vs fumble or disarm  
 * Bodyguard: If adjacent, and perceives the attack, can take any blow for his client
 
+## Alexander von Humboldt
+
+The first true comprehension of ecosystems sprang from his work.
+
+Prussian natural philosopher, geographer, and explorer. Brilliant synthesizer of data, obsessed with measuring and comparing the natural world. Revered in scientific circles for treating nature as a single interconnected system rather than scattered facts.
+
+**Great Expedition (1799–1804)**
+Traveled through Spanish America: Venezuela, Cuba, Colombia, Ecuador, Peru, Mexico.
+Climbed Chimborazo, charted the Orinoco, crossed the Andes, measured magnetic variation, cataloged plants and minerals, and gathered the data that powered his later works.
+
+Humboldt learned:
+
+* _Nature is a single system_ - Example: Deforestation in Venezuela dries rivers, alters winds, and shifts crop viability hundreds of miles away.
+
+* _Climate is changeable_ - Example: Irrigated valleys in New Spain show measurably cooler, wetter microclimates within a generation.
+
+* _Invisible global forces shape the world_ - Example: Magnetic declination changes predictably across oceans, affecting navigation and possibly weather.
+
+* _Mountains reveal deep time_ = Example: Marine fossils high in the Andes prove the land itself has risen over immense ages.
+
+* _The tropics are biologically primary, not backward_ - Example: A single equatorial valley contains more plant species than all of northern Europe.
+
+* _Plants encode climate and history_ - Example: Vegetation bands on Chimborazo precisely mirror temperature and altitude—no instruments required.
+
+* _Disease follows geography and trade, not morality_ - Example: Yellow fever outbreaks track ports, rivers, and shipping schedules, not sin or filth alone.
+
+* _Empires obey ecological limits_ - Example: Spanish silver mining enriched Europe while destroying local soils, labor systems, and long-term stability.
+
+* _Maps can predict power_ - Example: Overlaying trade winds, currents, and harbors reveals why Britain dominates global shipping.
+
+* _Pure reductionism fails_ - Example: Barometers and thermometers explain less than a trained observer who understands landscape, plants, and people together.
+
 ## William Herschel
 
 An English astronomer of Hanoverian (German) descent, he discovered "George's Star" (**Georgium Sidus**) aka Uranus in 1781 and "Calorific rays" (which we know as infrared radiation) in 1800\.
@@ -651,7 +683,7 @@ Capabilities
 **String Figures**  
 Extra power is gained when one takes it from another, each adding a step until a pattern is made (+1 advantage for one partner, \+2 for two partners): Cat's cradle, witches broom, etc.
 
-* Story Time: Meriwa appears in full shamanic garb [PIC](https://boodijewellery.com/wp-content/uploads/2017/06/inuit-woman-tattoo.jpg). She tells the story "Honor of Hunters" [story](https://www.youtube.com/watch?v=1YK5SUOF44U&t=2m57s) (time 2:40) 
+* Story Time: Meriwa appears in full shamanic garb [PIC]+(https://boodijewellery.com/wp-content/uploads/2017/06/inuit-woman-tattoo.jpg). She tells the story "Honor of Hunters" [story](https://www.youtube.com/watch?v=1YK5SUOF44U&t=2m57s) (time 2:40) 
 
 ## Witch \- Moira O'Connor
 
@@ -687,7 +719,7 @@ Moira emigrated to London to avoid debtor's prison. She worked a fishing boat fr
 **Smoker** \- Moira smokes a clay pipe, which she keeps in her pocket, when she can find tobacco.  
 **Languages** \- English, Irish/Gaelic, Latin, Hebrew, French  
 **Literate** \- Moira can read, write and is an excellent translator/transcriber  
-**Historian** \- She specifically understands Charlemagne, the history of the Lombards, 
+**Historian** \- She specifically understands Charlemagne, the history of the Lombards, and Irish history.
 
 ### Abilities
 
@@ -703,4 +735,4 @@ Moira emigrated to London to avoid debtor's prison. She worked a fishing boat fr
 
 **Plentiful Pot** \- When cooking in a specially prepared stew pot, over an open flame, Moira can cause food for one to two to feed about four to eight people. A gallon of clean water must be added. The food is delicious and healthy. Leftovers can not be stored. Anyone consuming this food has disadvantage on any rolls vs Moira that day.
 
-**Brewer** \- Moira can make potions, given time, ingredients and cooking technology, that include the effects of mental influence, such as temporary feelings of affection, confusion, and the like. These only work if taken voluntarily (even if they don't know what it does), typically from Moira's own hand or the hand of a friend. 
+**Brewer** - Moira can make potions, given time, ingredients and cooking technology, that include the effects of mental influence, such as temporary feelings of affection, confusion, and the like. These only work if taken voluntarily (even if they don't know what it does), typically from Moira's own hand or the hand of a friend. 

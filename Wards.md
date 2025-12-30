@@ -3,14 +3,14 @@
 ## !First Ward
 aka: Ward of Concealment, aka Occultare
 
-KNOWN The Corruptor shall be aware when anyone speaks Secrets. And bad fortune will attend both speaker and listeners, even unto death.  
+The Corruptor shall be aware when anyone speaks Secrets. And bad fortune will attend both speaker and listeners, even unto death.  
 Souls: Purifite (resemble goblin sharks)  
 Avatar: Egyptian, Djoser  
 2650BC
 
 ## !Second Ward
 aka: Ward of Shaping, Agamorpho  
-KNOWN Both minds and the genetic code yield more easily to corruption. Both can be warped to alter the course of human kind.  
+Both minds and the genetic code yield more easily to corruption. Both can be warped to alter the course of human kind.  
 Souls: Mariner  
 Avatar: Minoan: Agamemnon  
 2000BC
@@ -63,7 +63,7 @@ Avatar: British
 # !Avatars
 The corruptor has multiple avatars that mirror his aspects. When each possesses a person there is a different effect.
 
-The avatars are: An Egyptian, Minoan, Chinese (Wucheng), Persian, Indian, Bantu, Olmec, and soon the 8th will be British
+The avatars are, in order: An Egyptian, Minoan, Chinese (Wucheng), Persian, Indian, Bantu, Olmec, and the kidnapped King George III.
 
 1. Submission (the word Islam means Submission), including misplaced loyalty  
 2. Falsehood/deception, including making up false reasons for things to satisfy emotion  
@@ -72,3 +72,4 @@ The avatars are: An Egyptian, Minoan, Chinese (Wucheng), Persian, Indian, Bantu,
 5. Hate/disregard/callousness - This avatar is the entry point to most access by the Corruptor into the minds of humans  
 6. Misplaced loyalty - only following those who meet your emotional criteria, rather than looking beyond to the good of the whole  
 7. TBD 
+8. 

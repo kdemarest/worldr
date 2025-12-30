@@ -9,7 +9,7 @@
 5. **Unjust**: A burly man picks up two eight year old children and hauls them away to the factory where they work, complaining that they can idle on their own time.  
 6. **Progress**: A man struts by on a [Dandy Horse](https://tbeartravels.files.wordpress.com/2017/09/13-dandy-horse1.jpg), proclaiming that the age of horse is at an end  
 7. **Flavor**: A beggar sits upon a street corner, calling for alms. You realize it is [Lambert](https://docs.google.com/document/d/1ml4MhMjmapNTFYD-ifeZb_XncwotmAcRF9zSmtC7zb0/edit#bookmark=id.a4ae3uhuc2my), from the cricket match. If you chat, he will tell of being banned from play by Beauclerk's malign lies. Those witnesses were bought and paid for\!  
-8. **DONE Class**: A noble carriage passes, with young men hangers-on standing upon the running boards  
+8. **DONE Class**: A noble carriage passes, with young men (literally "hangers-on") standing upon the running boards  
 9. **Class**: Meet a bone grubber ([link](http://books.google.co.uk/books?id=zGNNAAAAcAAJ&pg=PA139&dq=%22bone+grubber%22&hl=en&sa=X&ei=Tt3tT4myGKO60QXdlY3-DQ&ved=0CDQQ6AEwAA#v=onepage&q=%22bone%20grubber%22&f=false))  
 10. **Class**: A flyer drifts down the street on the wind, coming to land upon your chest. When you pull it away, you working class politics: [PIC](https://userscontent2.emaze.com/images/1cb567d8-9ef4-4df4-b24a-bd7ef4af1c8e/e208efa6-5f9a-4f1b-b96e-9d38d6a14ddc.jpg)  
 11. **History**: A street puppet show demonstrates Maitland taking Napoleon's surrender. Children throw pebbles at Napoleon.  
@@ -23,8 +23,10 @@
 19. A woman calls "Hot Codlins\! Hot Codlins\!" She is selling hot apples. [PIC](https://www.fromoldbooks.org/RandMcnally-RealMotherGoose/pages/Hot-Codlins/Hot-Codlins-q100-768x1247.jpg)  
 20. So-called "pure finder" collects dog poop to sell to tanners for tanning hides  
 21. [Father Kensington](https://docs.google.com/document/d/1ml4MhMjmapNTFYD-ifeZb_XncwotmAcRF9zSmtC7zb0/edit#bookmark=id.anz67d85vo91) stands in a nearby alley. A tall brazier heats a large pot of soup, and a stack of stale bread rests nearby. Children are lined up holding soup bowls. He is arguing with a brawny older boy (Old Farm), perhaps 14 years old, not to take food from the younger children.
+22. A person stumbles into you. They are obviously sick. 1 Dropsy, 2 Cholera, 3 Typhoid, 4 Whooping cough, 5 Measles, 6 Rheumatism, 7 Tetanus
 
-## \!London Wealthy
+
+## !London Wealthy
 
 1. *A group of fabulously dressed men and women stands on a large terrace elevated above the street. The fashion is new, energetic and eye-catching. You suspect the man on the left could be Beau Brummel, the Prince Regent's fashion tsar.* [PIC](https://upload.wikimedia.org/wikipedia/commons/e/e9/Almacks_with_Brummell.jpg)  
 2. **Class**: A noble carriage passes, with young men hangers-on standing upon the running boards  

@@ -1,3 +1,17 @@
+# Resource Extraction
+
+capital extracts value from the environment: mining, cutting trees, freely polluting, basically the tragedy of the commons.
+
+but humans are also the ambient environment. the realm of ideas likewise.
+
+and the Corruptor knows this. if you can utterly sap sentience, choice, autonomy and will, and arrive at a functional but unthinking set of entities, that is acceptable to it.
+
+Therefore, to use AI to relentlessly regulate is acceptable. Likewise to deconstruct the mentality network, as in the case of the Venusians, such that they self-constrain forever is equally fine.
+
+it is mentality networks that might compete with it that are problematic.
+
+still an outstanding problem: why not simply genetically engineer them into an inability to reproduce? then they'd be gone...
+
 # Outlawing the Slave Trade
 
 Outlawing the slave trade in 1807 gives Britain breathing room vs Corruption, leading somewhat to the state of the game in 1817. When the Napoleonic war began in 1803, with George IV's shadow government supporting him, within four years Napoleon discovered the link between inhuman behavior and being prone to corruption. Outlawing the slave trade was the idea of William Wilberforce (Parliament), Bishop of London Beilby Porteus, and prime minister Lord Grenville. Curtailing the slave trade harmed other countries more than Britain, so it passed, and bought all of Britain more time and access to Corrupt Secrets. Wilberforce, by the way, dies three days after slavery itself is abolished in 1833.
@@ -403,3 +417,4 @@ The first irrigation works undertaken during East India Company's rule were begu
 \- Hindu College signals the ascendancy of the Anglicist vision.    
 \- Cultural authority is shifting from classical scholarship to Western science and English prose.    
 \- The Company’s ruling philosophy is starting to tilt from “rule through existing systems” to “reform India through English education.”  
+
